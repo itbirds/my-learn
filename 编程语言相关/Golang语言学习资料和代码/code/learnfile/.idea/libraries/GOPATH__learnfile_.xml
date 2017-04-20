@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;learnfile&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../mplayer/src/smp" />
+      <root url="file://$PROJECT_DIR$/../mplayer/src/mplayer" />
+      <root url="file://$PROJECT_DIR$/../sorter/src/sorter" />
+      <root url="file://$PROJECT_DIR$/../calcproj/src/calc" />
+      <root url="file://$PROJECT_DIR$/../sorter/src/algorithm" />
+      <root url="file://$PROJECT_DIR$/../calcproj/src/simplemath" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../mplayer/src/smp" />
+      <root url="file://$PROJECT_DIR$/../mplayer/src/mplayer" />
+      <root url="file://$PROJECT_DIR$/../sorter/src/sorter" />
+      <root url="file://$PROJECT_DIR$/../calcproj/src/calc" />
+      <root url="file://$PROJECT_DIR$/../sorter/src/algorithm" />
+      <root url="file://$PROJECT_DIR$/../calcproj/src/simplemath" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
